@@ -28,6 +28,10 @@ Create a user and password list to match the variables in the script.
 USER_LIST="users.txt"
 PASS_LIST="pass.txt"
 
+create yourowne payload for 32/64-bit and change the variables to match:
+PAYLOAD="payloads/payload_64_4444.elf"
+PAYLOAD="payloads/payload_32_4444.elf" 
+
 Run the script with an IP range:
 
 ```bash
